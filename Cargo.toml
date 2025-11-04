@@ -1,9 +1,10 @@
 [package]
 edition      = "2024"
 name         = "embassy-nrf-ws2812-pwm"
-version      = "0.1.0"
+version      = "0.1.1"
 description  = "Driver for WS2812 LEDs using embassy-nrf PWM and smart-leds"
 license      = "MIT OR Apache-2.0"
+repository   = "https://github.com/tmpfs/embassy-nrf-ws2812-pwm"
 
 [package.metadata.docs.rs]
 features = ["nrf52840"]
